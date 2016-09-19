@@ -11,7 +11,7 @@ int main(int argc, char *argv[]) {
 
   // Set the goal for the problem.
   Eigen::VectorXd goal(3), error(3);
-  goal << -5, 0, 1.57;
+  goal << 0, 3, 0;
 
   // Iterate to reduce the error
   do {
