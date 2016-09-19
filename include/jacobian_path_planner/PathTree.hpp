@@ -76,5 +76,5 @@ class PathTree
 
   private:
     // Chain of all the links`
-    std::vector<Link> linkTree;
+    std::vector<Link> linkChain_;
 };

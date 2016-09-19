@@ -28,7 +28,6 @@ int main(int argc, char *argv[]) {
     std::cout << pt[0] << " " << pt[1] << std::endl;
   }
 
-
   //std::cout << p.getTF() << std::endl;
   //std::cout << p.printTree() << std::endl;
 
